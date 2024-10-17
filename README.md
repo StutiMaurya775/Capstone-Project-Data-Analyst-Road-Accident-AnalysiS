@@ -10,10 +10,7 @@ The data used in this analysis comes from various reports on road accidents in I
 - Additional data files covering reasons for accidents, lanes, and vehicle types.
 
 Each dataset focuses on different aspects of road accidents, such as offenders' gender, time of accidents, reasons, and number of lanes.
-## Setup Instructions
-1. Clone the repository: git clone https://github.com/your-username/road-accident-analysis.git
-2. Install the required libraries: pip install -r requirements.txt
-3. Run the analysis in Jupyter notebook.
+
 ## Setup Instructions
 1. Install the required libraries: pip install -r requirements.txt
 2. Run the analysis in Jupyter notebook.
